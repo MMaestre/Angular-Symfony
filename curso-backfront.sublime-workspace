@@ -7,6 +7,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "BBDD/base_de_datos.sql",
+			"settings":
+			{
+				"buffer_size": 678,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "symfony/app/config/parameters.yml",
+			"settings":
+			{
+				"buffer_size": 355,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -41,10 +59,15 @@
 	"expanded_folders":
 	[
 		"/D/Prog/XAMPP/htdocs/Repaso",
-		"/D/Prog/XAMPP/htdocs/Repaso/Angular-Symfony"
+		"/D/Prog/XAMPP/htdocs/Repaso/Angular-Symfony",
+		"/D/Prog/XAMPP/htdocs/Repaso/Angular-Symfony/BBDD",
+		"/D/Prog/XAMPP/htdocs/Repaso/Angular-Symfony/symfony",
+		"/D/Prog/XAMPP/htdocs/Repaso/Angular-Symfony/symfony/app",
+		"/D/Prog/XAMPP/htdocs/Repaso/Angular-Symfony/symfony/app/config"
 	],
 	"file_history":
 	[
+		"/D/Prog/XAMPP/htdocs/Repaso/Angular-Symfony/symfony/app/config/parameters.yml"
 	],
 	"find":
 	{
@@ -79,8 +102,67 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "BBDD/base_de_datos.sql",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 678,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								86
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQL/SQL.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "symfony/app/config/parameters.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								263,
+								263
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -90,7 +172,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 39.0
 	},
 	"layout":
 	{
